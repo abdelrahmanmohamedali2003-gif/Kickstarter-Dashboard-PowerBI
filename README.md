@@ -26,7 +26,7 @@ The dashboard helps identify project performance, funding trends, category distr
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.jpg)
+(dashboard.jpg)
 
 ## Key Insights
 
