@@ -26,7 +26,7 @@ The dashboard helps identify project performance, funding trends, category distr
 
 ## Dashboard Preview
 
-(dashboard.jpg)
+![Dashboard](Images/dashboard.png)
 
 ## Key Insights
 
@@ -36,5 +36,7 @@ The dashboard helps identify project performance, funding trends, category distr
 - Project creation peaked around 2015.
 
 ## Author
+
+Abdulrahman Mohammed
 
 Abdulrahman Mohammed
